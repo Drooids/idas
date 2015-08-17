@@ -1,0 +1,2 @@
+# idas
+Software development ideas.

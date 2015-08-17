@@ -1,4 +1,4 @@
-# idas
+# ideas
 Software development ideas.
 
 # Sources
